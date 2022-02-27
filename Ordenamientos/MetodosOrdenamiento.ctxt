@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MetodosOrdenamiento
+comment1.params=arg
+comment1.target=void\ main(java.lang.String[])
+comment10.params=a\ n
+comment10.target=void\ radixsort(int[],\ int)
+comment11.params=arr\ l\ m\ r
+comment11.target=void\ merge(int[],\ int,\ int,\ int)
+comment12.params=arr\ l\ r
+comment12.target=void\ mergesort(int[],\ int,\ int)
+comment2.params=a
+comment2.target=void\ burbuja(int[])
+comment3.params=A\ izq\ der
+comment3.target=void\ quicksort(int[],\ int,\ int)
+comment4.params=A
+comment4.target=void\ seleccion(int[])
+comment5.params=numbers\ array_size
+comment5.target=void\ insercion(int[],\ int)
+comment6.params=A
+comment6.target=void\ shell(int[])
+comment7.params=v
+comment7.target=void\ Monticulo(int[])
+comment8.params=v\ nodo\ fin
+comment8.target=void\ hacerMonticulo(int[],\ int,\ int)
+comment9.params=arr\ n
+comment9.target=int\ getMax(int[],\ int)
+numComments=13

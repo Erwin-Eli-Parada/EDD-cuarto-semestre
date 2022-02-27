@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Archivo
+comment1.params=x
+comment1.target=Archivo(java.lang.String)
+comment2.params=per
+comment2.target=void\ setEscritura(ArrePer)
+comment3.params=
+comment3.target=void\ setEscritura2()
+comment4.params=per
+comment4.target=void\ getLectura(ArrePer)
+numComments=5

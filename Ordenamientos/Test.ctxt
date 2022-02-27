@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arre
+comment2.target=void\ rellenar(int[])
+comment3.params=a\ izq\ der
+comment3.target=void\ quicksort(int[],\ int,\ int)
+comment4.params=a\ izq\ der
+comment4.target=void\ quicksort2(int[],\ int,\ int)
+numComments=5

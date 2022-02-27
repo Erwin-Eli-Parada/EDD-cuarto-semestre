@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArrePer
+comment1.params=
+comment1.target=ArrePer()
+comment2.params=p
+comment2.target=void\ agregar(Persona)
+comment3.params=
+comment3.target=int\ tama\u00F1o()
+comment4.params=x
+comment4.target=Persona\ posicion(int)
+comment5.params=x
+comment5.target=void\ ordenar(int)
+numComments=6

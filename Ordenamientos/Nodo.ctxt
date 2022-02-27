@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Nodo
+comment1.params=sig\ ant\ o
+comment1.target=Nodo(Nodo,\ Nodo,\ java.lang.Object)
+comment2.params=n
+comment2.target=void\ setsig(Nodo)
+comment3.params=n
+comment3.target=void\ setant(Nodo)
+comment4.params=o
+comment4.target=void\ setdato(java.lang.Object)
+comment5.params=
+comment5.target=Nodo\ getsig()
+comment6.params=
+comment6.target=Nodo\ getant()
+comment7.params=
+comment7.target=java.lang.Object\ getdato()
+numComments=8
