@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Test2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.util.Vector\ leerpersonas()
+comment3.params=leerpersonas
+comment3.target=void\ personas(java.util.Vector)
+comment4.params=leerpersonas
+comment4.target=void\ personasconformato(java.util.Vector)
+numComments=5

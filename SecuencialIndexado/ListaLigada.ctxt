@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ListaLigada
+comment1.params=
+comment1.target=ListaLigada()
+comment2.params=o\ num
+comment2.target=boolean\ insertarfinal(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.Object\ eliminarfinal()
+comment4.params=
+comment4.target=void\ verfin()
+comment5.params=s
+comment5.target=int\ encontrartexto(java.lang.String)
+numComments=6

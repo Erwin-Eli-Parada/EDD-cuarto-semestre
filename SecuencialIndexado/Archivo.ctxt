@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Archivo
+comment1.params=indice\ raf
+comment1.target=void\ setEscritura(ListaLigada,\ java.io.RandomAccessFile)
+comment2.params=raf\ numero
+comment2.target=Persona\ getLectura(java.io.RandomAccessFile,\ int)
+numComments=3
