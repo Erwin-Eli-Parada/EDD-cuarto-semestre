@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Archivo
+comment1.params=s\ ll
+comment1.target=void\ leerarchivo(java.lang.String,\ ListaLigada)
+comment2.params=s\ ll
+comment2.target=void\ escribirarchivo(java.lang.String,\ ListaLigada)
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Vista
+comment1.params=s\ x
+comment1.target=int\ leerentero(java.lang.String,\ int)
+comment2.params=s
+comment2.target=int\ leerentero2(java.lang.String)
+comment3.params=s
+comment3.target=java.lang.String\ leersololetras(java.lang.String)
+numComments=4

@@ -1,0 +1,9 @@
+huawei
+apple
+samsung
+LG
+nokia
+sony
+xiaomi
+motorola
+alcatel

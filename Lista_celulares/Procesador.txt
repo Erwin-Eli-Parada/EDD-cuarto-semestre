@@ -1,0 +1,6 @@
+Qualcom
+Nvidia
+Mediatek
+Samsung
+Apple
+TSMC

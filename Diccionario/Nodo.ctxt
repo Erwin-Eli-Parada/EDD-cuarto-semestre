@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Nodo
+comment1.params=entrada\ sig
+comment1.target=Nodo(Numero,\ Nodo)
+comment2.params=
+comment2.target=Numero\ getDato()
+comment3.params=
+comment3.target=Nodo\ getsiguiente()
+comment4.params=sig
+comment4.target=void\ setsiguiente(Nodo)
+numComments=5
